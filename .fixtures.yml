@@ -1,0 +1,12 @@
+fixtures:
+  repositories:
+    krb5:
+      repo: "https://github.com/Adaptavist/puppet-krb5.git"
+    samba:
+      repo: "https://github.com/Adaptavist/puppet-samba.git"
+    sssd:
+      repo: "https://github.com/Adaptavist/puppet-sssd.git"
+    stdlib:
+      repo: "https://github.com/Adaptavist/puppet-stdlib"
+  symlinks:
+    active_directory_glue: "#{source_dir}"

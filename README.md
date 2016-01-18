@@ -1,4 +1,5 @@
 # active_directory_glue
+[![Build Status](https://travis-ci.org/Adaptavist/puppet-active_directory_glue.svg?branch=master)](https://travis-ci.org/Adaptavist/puppet-active_directory_glue)
 
 Configure Kerberos, Samba and SSSD to join an Active Directory domain.
 

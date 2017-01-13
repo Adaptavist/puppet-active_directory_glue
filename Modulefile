@@ -1,5 +1,5 @@
 name    'adaptavist-active_directory_glue'
-version '0.1.5'
+version '1.0.0'
 author 'Evgeny Zislis <ezislis@adaptavist.com>'
 summary 'Glues together krb5, samba and sssd to join AD domains.'
 source 'https://github.com/Adaptavist/puppet-active_directory_glue.git'
